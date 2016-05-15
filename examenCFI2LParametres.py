@@ -557,6 +557,12 @@ PYTHON[13] = (u"Pour pouvoir démarrer une application graphique Qt il faut "
               u"créer une instance de",
               [u"QtGui.QApplication", u"QtGui.QGraphic", u"QtGui.QInterface"], 0)
 
+PYTHON[14] = (u"Pour associer un signal d'un widget à une méthode il faut "
+              u"utiliser la fonction", [u"associate", u"react", u"connect"], 2)
+
+PYTHON[15] = (u"La librairie python qui permet de faire des graphiques est",
+              [u"scipy", u"pandas", u"matplotlib", u"numpy"], 2)
+
 # PYTHON[12] = (u"Dans une déclaration de fonction il \nest possible"
 #               u"de passer les arguments optionnels \n*args et **kwargs\n"
 #               u"A quoi renvoie *args",
